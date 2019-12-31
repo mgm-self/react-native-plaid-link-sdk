@@ -42,7 +42,7 @@ class PlaidModule internal constructor(reactContext: ReactApplicationContext) :
     private const val LANGUAGE = "language"
     private const val ENV = "env"
     private const val LINK_CUSTOMIZATION_NAME = "linkCustomizationName"
-    private const val PUBLIC_TOKEN = "publicToken"
+    private const val PUBLIC_TOKEN = "token"
     private const val USER_EMAIL = "userEmailAddress"
     private const val USER_NAME = "userLegalName"
     private const val USER_PHONE = "userPhoneNumber"
